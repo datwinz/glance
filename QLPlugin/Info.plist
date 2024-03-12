@@ -234,6 +234,8 @@
 				<string>public.yaml</string> <!-- .yaml, .yml -->
 				<string>public.zsh-script</string> <!-- .zsh -->
 				<string>tk.tcl.tcl-source</string> <!-- .tcl -->
+				<string>dyn.ah62d4rv4ge80e2pp</string> <!-- .bak -->
+				<string>dyn.ah62d4rv4ge8085de</string> <!-- .old -->
 			</array>
 			<key>QLSupportsSearchableItems</key>
 			<true/>
