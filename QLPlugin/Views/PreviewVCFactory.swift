@@ -20,6 +20,8 @@ class PreviewVCFactory {
 				return TSVPreview.self
 			case "ear", "jar", "war", "zip":
 				return ZIPPreview.self
+			case "", "old", "bak":
+				return CodePreview.self
 			default:
 				return CodePreview.self
 		}
