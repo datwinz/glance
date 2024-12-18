@@ -5,5 +5,5 @@ First create your certificate as described [here](https://stackoverflow.com/ques
 ```bash
 cd Glance.app
 codesign --force --sign my-codesign-cert Contents/Macos/Glance
-codesigh --force --sign my-codesign-cert Contents/PlugIns/QLPlugin.appex/Contents/MacOS/QLPlugin
+codesigh --force --sign my-codesign-cert Contents/PlugIns/QLPlugin.appex
 ```
