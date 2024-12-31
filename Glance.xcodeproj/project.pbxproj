@@ -691,7 +691,7 @@
 				BuildIndependentTargetsInParallel = YES;
 				LastSwiftUpdateCheck = 1140;
 				LastUpgradeCheck = 1620;
-				ORGANIZATIONNAME = "Samuel Meuli";
+				ORGANIZATIONNAME = datwinz;
 				TargetAttributes = {
 					7E6EF1F9240CC802009E4199 = {
 						CreatedOnToolsVersion = 11.3.1;
@@ -830,6 +830,7 @@
 /* Begin PBXShellScriptBuildPhase section */
 		7EAB42232458DBD5005DC89B /* ShellScript */ = {
 			isa = PBXShellScriptBuildPhase;
+			alwaysOutOfDate = 1;
 			buildActionMask = 2147483647;
 			files = (
 			);
@@ -927,7 +928,7 @@
 				CODE_SIGN_ENTITLEMENTS = QLPlugin/QLPlugin.entitlements;
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 4;
+				CURRENT_PROJECT_VERSION = 1;
 				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = H68LSFPM6B;
 				ENABLE_HARDENED_RUNTIME = YES;
@@ -943,7 +944,7 @@
 					"$(PROJECT_DIR)/HTMLConverter",
 				);
 				MACOSX_DEPLOYMENT_TARGET = 11.0;
-				MARKETING_VERSION = 1.2.0;
+				MARKETING_VERSION = 1.3.1;
 				PRODUCT_BUNDLE_IDENTIFIER = dev.datwinz.Glance.QLPlugin;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
@@ -958,7 +959,7 @@
 				CODE_SIGN_ENTITLEMENTS = QLPlugin/QLPlugin.entitlements;
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 4;
+				CURRENT_PROJECT_VERSION = 1;
 				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = H68LSFPM6B;
 				ENABLE_HARDENED_RUNTIME = YES;
@@ -974,7 +975,7 @@
 					"$(PROJECT_DIR)/HTMLConverter",
 				);
 				MACOSX_DEPLOYMENT_TARGET = 11.0;
-				MARKETING_VERSION = 1.2.0;
+				MARKETING_VERSION = 1.3.1;
 				PRODUCT_BUNDLE_IDENTIFIER = dev.datwinz.Glance.QLPlugin;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
@@ -1108,7 +1109,7 @@
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				CURRENT_PROJECT_VERSION = 4;
+				CURRENT_PROJECT_VERSION = 1;
 				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = H68LSFPM6B;
 				ENABLE_HARDENED_RUNTIME = YES;
@@ -1133,7 +1134,7 @@
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				CURRENT_PROJECT_VERSION = 4;
+				CURRENT_PROJECT_VERSION = 1;
 				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = H68LSFPM6B;
 				ENABLE_HARDENED_RUNTIME = YES;
